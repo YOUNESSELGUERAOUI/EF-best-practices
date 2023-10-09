@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+	<PackageId>OnPage</PackageId>
+	<Description>Pagination extension for entityframework core.</Description>
+	<RepositoryType>git</RepositoryType>
+	<PackageTags>EntityFramework Core, Pagination,.net core, asp .net core, c#</PackageTags>
+	<NeutralLanguage>en-US</NeutralLanguage>
+	<AssemblyVersion>7.0.0.0</AssemblyVersion>
+	<Version>7.0.0.1</Version>
+	<PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+	<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	<GenerateDocumentationFile>False</GenerateDocumentationFile>  
+  </PropertyGroup>
+
+</Project>
